@@ -191,7 +191,7 @@ section .main .main-box > a {
 }
 
 section .main .main-box>a:hover {
-    background-color: whtie;
+    background-color: #fff;
     color: #ff746d;
     font-weight: bold;
 }
